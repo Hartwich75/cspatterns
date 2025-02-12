@@ -7,6 +7,7 @@ const pistolsData = [
             id: 'rarity_ancient_weapon',
             name: 'Covert',
             color: '#eb4b4b'
-        }
+        },
+        url: '/main/Views/ak-47-inheritance.html'
     }
 ];
