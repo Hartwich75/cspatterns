@@ -1,13 +1,12 @@
 const pistolsData = [
     {
-        id: 'skin-463436',
-        name: 'AK-47 | Inheritance',
-        image: 'https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_ak_porcelain_light_png.png',
+        id: 'skin-2098136',
+        name: 'P2000 | Amber Fade',
+        image: 'https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_hkp2000_aa_fade_metallic_light_png.png',
         rarity: {
-            id: 'rarity_ancient_weapon',
-            name: 'Covert',
-            color: '#eb4b4b'
+            name: 'Restricted',
+            color: '#8847ff'
         },
-        url: '/main/Views/ak-47-inheritance.html'
+        url: '/main/Views/p2000-amberFade.html'
     }
 ];

@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const pistolsContainer = document.querySelector(".groupImageDisplay");
+    const pistolsContainer = document.querySelector(".defaultSkinImages");
 
     pistolsData.forEach(pistols => {
         const rarityColor = pistols.rarity.color;
