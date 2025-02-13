@@ -1,0 +1,36 @@
+body{
+    min-height: 100vh;
+    background-color: #232728;
+    font-family: "consolas", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+
+}
+
+p{
+    color: white;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+#amberFadeGradiant{
+    background: linear-gradient(#151513, #21251b, #412111, #705d36);
+}
