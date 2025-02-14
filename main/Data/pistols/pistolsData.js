@@ -38,5 +38,25 @@ const pistolsData = [
             color: '#eb4b4b'
         },
         url: ''
+    },
+    {
+        id: 'skin-4196396',
+        name: 'R8 Revolver | Amber Fade',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_png.png',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'R8 Revolver | Fade',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_aa_fade_revolver_light_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: ''
     }
 ];

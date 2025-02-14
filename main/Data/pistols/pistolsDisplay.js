@@ -10,13 +10,16 @@ document.addEventListener("DOMContentLoaded", function() {
         pistolsElement.id = pistols.id;
         pistolsElement.innerHTML = `
             <div class="weaponSkins">
-                 <a href="${pistols.url}" target="_self">
-                    <img src="${pistols.image}" alt="${pistols.name}" style="width: 100%; height: auto;">
-                    <div class="rarity-box" style="background-color: ${rarityColor}; color: white; font-weight: bold;">
-                        ${rarityName}
-                    </div>
-                </a>
-            </div>
+        <a href="${pistols.url}" target="_self">
+            <img src="${pistols.image}" alt="${pistols.name}" style="width: 100%; height: auto;">
+        </a>
+        <div class="rarity-box" style="background-color: ${rarityColor}; color: white; font-weight: bold;">
+            ${rarityName}
+        </div>
+        <div class="skin-name">
+            ${pistols.name}
+        </div>
+    </div>
         `;
 
         pistolsContainer.appendChild(pistolsElement);
