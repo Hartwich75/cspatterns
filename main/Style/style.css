@@ -6,15 +6,20 @@
 
 body{
     min-height: 100vh;
-    background-color: #232728;
-    font-family: "consolas", sans-serif;
+    background-color: #222;
+    font-family: "Inter", sans-serif;
     margin: 0;
-    padding: 0;
+    padding-top: 150px;
+    line-height: 1.6em;
 }
 
 header {
-    position: relative;
+    position: fixed;
     z-index: 10;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #232728;
 }
 
 table{
@@ -54,6 +59,7 @@ table a:hover{
 nav{
     background-color: #232728;
     box-shadow: 3pc 3px 5px rgba(0, 0, 0, 0.1);
+    
 }
     
 nav ul{
