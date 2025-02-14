@@ -59,7 +59,6 @@ table a:hover{
 nav{
     background-color: #232728;
     box-shadow: 3pc 3px 5px rgba(0, 0, 0, 0.1);
-    
 }
     
 nav ul{
@@ -76,7 +75,8 @@ nav li{
     
 nav a{
     height: 100%;
-    padding: 0 30px;
+    padding: 10px 15px;
+    margin: 0 15px;
     text-decoration: none;
     display: flex;
     align-items: center;
