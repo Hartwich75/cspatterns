@@ -4,4 +4,10 @@ document.addEventListener("DOMContentLoaded", function(){
     .then(data => {
         document.getElementById('pageHeader').innerHTML = data;
     });
+    
+    fetch('/main/Views/footer.html')
+    .then(response => response.text())
+    .then(data => {
+        document.getElementById('pageFooter').innerHTML = data;
+    });
 });

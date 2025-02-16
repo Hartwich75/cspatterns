@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
 body{
     min-height: 100vh;
     background-color: #222;
@@ -12,6 +18,11 @@ body{
     padding-top: 150px;
     line-height: 1.6em;
 }
+
+.content-wrapper {
+    flex: 1;
+}
+
 
 header {
     position: fixed;
@@ -90,6 +101,34 @@ nav a:hover{
 nav ul li a img {
     max-height: 100px;
     width: auto;
+}
+
+.site-footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    white-space: nowrap;
+}
+
+.site-footer a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+.site-footer p {
+    margin: 0;
+    padding: 0;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
 }
 
 .skin-name{
