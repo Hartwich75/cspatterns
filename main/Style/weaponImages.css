@@ -5,7 +5,7 @@
     flex-wrap: wrap;
 }
 
-.defaultSkinImages{
+.defaultMidtierImages, .defaultPistolImages{
     width: 60%;
     display: flex;
     flex-direction: row;
@@ -17,19 +17,7 @@
     margin: 0 auto;
 }
 
-.defaultWeaponImages{
-    width: 60%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    column-gap: 1em;
-    row-gap: 1em;
-    margin: 0 auto;
-}
-
-.pistolsimage{
+.pistolsimage, .midtiersimage{
     width: 320px;
     height: 370px;
     border: 3px solid;
@@ -42,7 +30,7 @@
     margin: 1px;
 }
 
-.pistolsimage p{
+.pistolsimage p, .midtiersimage p{
     position: relative;
     top: -30px;
     margin: 0;
@@ -50,13 +38,13 @@
     word-wrap: break-word;
 }
 
-.pistolsimagehr{
+.pistolsimagehr, .midtiersimagehr{
     height: 3px;
     background-color: rgb(129, 128, 128);
     border: none;
 }
 
-.pistolsimage:hover{
+.pistolsimage:hover, .midtiersimage:hover{
     border-color: rgb(129, 128, 128);
 }
 
