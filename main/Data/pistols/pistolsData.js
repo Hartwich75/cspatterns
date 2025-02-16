@@ -7,7 +7,7 @@ const pistolsData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/p2000-amberFade.html'
+        url: '/main/Views/pistols/p2000-amberFade.html'
     },
     {
         id: 'skin-264920',
