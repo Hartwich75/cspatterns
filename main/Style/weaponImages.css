@@ -5,7 +5,7 @@
     flex-wrap: wrap;
 }
 
-.defaultMidtierImages, .defaultPistolImages{
+.defaultMidtierImages, .defaultPistolImages, .defaultRifleImages{
     width: 60%;
     display: flex;
     flex-direction: row;
@@ -17,7 +17,7 @@
     margin: 0 auto;
 }
 
-.pistolsimage, .midtiersimage{
+.pistolsimage, .midtiersimage, .riflesimage{
     width: 320px;
     height: 370px;
     border: 3px solid;
@@ -30,7 +30,7 @@
     margin: 1px;
 }
 
-.pistolsimage p, .midtiersimage p{
+.pistolsimage p, .midtiersimage p, .riflesimage p{
     position: relative;
     top: -30px;
     margin: 0;
@@ -38,13 +38,13 @@
     word-wrap: break-word;
 }
 
-.pistolsimagehr, .midtiersimagehr{
+.pistolsimagehr, .midtiersimagehr, .riflesimagehr{
     height: 3px;
     background-color: rgb(129, 128, 128);
     border: none;
 }
 
-.pistolsimage:hover, .midtiersimage:hover{
+.pistolsimage:hover, .midtiersimage:hover, .riflesimage:hover{
     border-color: rgb(129, 128, 128);
 }
 
