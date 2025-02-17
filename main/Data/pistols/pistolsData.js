@@ -27,7 +27,7 @@ const pistolsData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/pistols/glock18_fade.html'
     },
     {
         id: 'skin-266624',
@@ -37,7 +37,7 @@ const pistolsData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: ''
+        url: '/main/Views/pistols/glock18_gammadoppler.html'
     },
     {
         id: 'skin-4196396',
