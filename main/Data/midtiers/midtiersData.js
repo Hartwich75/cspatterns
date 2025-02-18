@@ -27,6 +27,6 @@ const midtiersData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/midtiers/sawedoff_amberFade.html'
     }
 ];

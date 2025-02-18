@@ -7,7 +7,7 @@ const riflesData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: ''
+        url: '/main/Views/rifles/m4a1s_fade.html'
     },
     {
         id: '',
@@ -17,7 +17,7 @@ const riflesData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/rifles/galilar_amberFade.html'
     },
     {
         id: 'skin-525272',
