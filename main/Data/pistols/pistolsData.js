@@ -47,7 +47,7 @@ const pistolsData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/pistols/r8revolver_amberFade.html'
     },
     {
         id: '',
