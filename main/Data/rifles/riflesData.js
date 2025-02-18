@@ -2,7 +2,7 @@ const riflesData = [
     {
         id: '',
         name: 'M4A1-S | Fade',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/',
+        image: '/main/images/riflePatterns/m4a1s_fade_pattern374.png',
         rarity: {
             name: 'Covert',
             color: '#eb4b4b'
@@ -57,7 +57,7 @@ const riflesData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: ''
+        url: '/main/Views/rifles/awp_fade.html'
     },
     {
         id: 'skin-590520',
@@ -67,6 +67,6 @@ const riflesData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/rifles/awp_boom.html'
     }
 ];
