@@ -7,7 +7,7 @@ const midtiersData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/midtiers/ump45_moonrise.html'
     },
     {
         id: 'skin-1115096',
@@ -17,7 +17,7 @@ const midtiersData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/midtiers/mac10_amberFade.html'
     },
     {
         id: 'skin-1901528',

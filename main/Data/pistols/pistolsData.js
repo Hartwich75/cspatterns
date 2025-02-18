@@ -48,15 +48,5 @@ const pistolsData = [
             color: '#d32ce6'
         },
         url: '/main/Views/pistols/r8revolver_amberFade.html'
-    },
-    {
-        id: '',
-        name: 'R8 Revolver | Fade',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_aa_fade_revolver_light_png.png',
-        rarity: {
-            name: 'Covert',
-            color: '#eb4b4b'
-        },
-        url: ''
     }
 ];
