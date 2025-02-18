@@ -27,7 +27,7 @@ const riflesData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/rifles/aug_amberFade.html'
     },
     {
         id: 'skin-592696',
@@ -37,7 +37,7 @@ const riflesData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/rifles/awp_paw.html'
     },
     {
         id: 'skin-590732',
@@ -47,7 +47,7 @@ const riflesData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/rifles/awp_electricHive.html'
     },
     {
         id: 'skin-593928',
