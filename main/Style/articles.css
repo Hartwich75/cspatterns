@@ -26,9 +26,11 @@ h2{
 }
 
 #articleImage{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 500px;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    display: block;
     margin: 0 auto;
 }
 
