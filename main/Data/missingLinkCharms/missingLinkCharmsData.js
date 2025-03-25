@@ -124,7 +124,7 @@ const missingLinkCharmsData = [
         name: 'Charm | Diner Dog',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_shape_png.png',
         rarity: {
-            name: 'Classified',
+            name: 'Superior',
             color: '#d32ce6'
         },
         url: ''
@@ -134,7 +134,7 @@ const missingLinkCharmsData = [
         name: 'Charm | Lil Monster',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_monster_png.png',
         rarity: {
-            name: 'Classified',
+            name: 'Superior',
             color: '#d32ce6'
         },
         url: ''
@@ -144,7 +144,7 @@ const missingLinkCharmsData = [
         name: 'Charm | Diamond Dog',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_diamond_png.png',
         rarity: {
-            name: 'Classified',
+            name: 'Superior',
             color: '#d32ce6'
         },
         url: ''
@@ -155,7 +155,7 @@ const missingLinkCharmsData = [
         name: 'Charm | Hot Wurst',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_wurst_png.png',
         rarity: {
-            name: 'Covert',
+            name: 'Extraordinary',
             color: '#eb4b4b'
         },
         url: ''
@@ -166,7 +166,7 @@ const missingLinkCharmsData = [
         name: 'Charm | Hot Howl',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_howl_png.png',
         rarity: {
-            name: 'Covert',
+            name: 'Extraordinary',
             color: '#eb4b4b'
         },
         url: ''
