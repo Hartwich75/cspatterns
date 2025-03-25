@@ -7,7 +7,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/lil_cap_gun_charm.html'
     },
     {
         id: '',
