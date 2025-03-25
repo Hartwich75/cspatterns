@@ -1,16 +1,6 @@
 const riflesData = [
     {
         id: '',
-        name: 'M4A1-S | Fade',
-        image: '/main/images/riflePatterns/m4a1s_fade_pattern374.png',
-        rarity: {
-            name: 'Covert',
-            color: '#eb4b4b'
-        },
-        url: '/main/Views/rifles/m4a1s_fade.html'
-    },
-    {
-        id: '',
         name: 'Galil AR | Amber Fade',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_galilar_aa_fade_metallic_light_png.png',
         rarity: {
@@ -50,16 +40,6 @@ const riflesData = [
         url: '/main/Views/rifles/awp_electricHive.html'
     },
     {
-        id: 'skin-593928',
-        name: 'AWP | Fade',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_aa_awp_fade_light_png.png',
-        rarity: {
-            name: 'Covert',
-            color: '#eb4b4b'
-        },
-        url: '/main/Views/rifles/awp_fade.html'
-    },
-    {
         id: 'skin-590520',
         name: 'AWP | Boom',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_hy_blam_simple_light_png.png',
@@ -68,5 +48,25 @@ const riflesData = [
             color: '#d32ce6'
         },
         url: '/main/Views/rifles/awp_boom.html'
+    },
+    {
+        id: '',
+        name: 'M4A1-S | Fade',
+        image: '/main/images/riflePatterns/m4a1s_fade_pattern374.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: '/main/Views/rifles/m4a1s_fade.html'
+    },
+    {
+        id: 'skin-593928',
+        name: 'AWP | Fade',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_aa_awp_fade_light_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: '/main/Views/rifles/awp_fade.html'
     }
 ];

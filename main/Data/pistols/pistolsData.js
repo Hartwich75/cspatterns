@@ -30,16 +30,6 @@ const pistolsData = [
         url: '/main/Views/pistols/glock18_fade.html'
     },
     {
-        id: 'skin-266624',
-        name: 'Glock-18 | Gamma Doppler',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_emerald_marbleized_glock_light_png.png',
-        rarity: {
-            name: 'Covert',
-            color: '#eb4b4b'
-        },
-        url: '/main/Views/pistols/glock18_gammadoppler.html'
-    },
-    {
         id: 'skin-4196396',
         name: 'R8 Revolver | Amber Fade',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_png.png',
@@ -48,5 +38,15 @@ const pistolsData = [
             color: '#d32ce6'
         },
         url: '/main/Views/pistols/r8revolver_amberFade.html'
+    },
+    {
+        id: 'skin-266624',
+        name: 'Glock-18 | Gamma Doppler',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_emerald_marbleized_glock_light_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: '/main/Views/pistols/glock18_gammadoppler.html'
     }
 ];

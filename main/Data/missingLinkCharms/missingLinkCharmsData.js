@@ -82,10 +82,92 @@ const missingLinkCharmsData = [
     {
         id: '',
         name: 'Charm | Lil Sandy',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_catbeach_png.png',
+        rarity: {
+            name: 'Remarkable',
+            color: '#8847ff'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Lil Teacup',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_toile_png.png',
+        rarity: {
+            name: 'Remarkable',
+            color: '#8847ff'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Chicken Lil',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_chicken_png.png',
+        rarity: {
+            name: 'Remarkable',
+            color: '#8847ff'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Lil Whiskers',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_cat_png.png',
         rarity: {
             name: 'Remarkable',
             color: '#8847ff'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Diner Dog',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_shape_png.png',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Lil Monster',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_monster_png.png',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: ''
+    },
+    {
+        id: '',
+        name: 'Charm | Diamond Dog',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_sam_diamond_png.png',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: ''
+    }
+    ,
+    {
+        id: '',
+        name: 'Charm | Hot Wurst',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_wurst_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: ''
+    }
+    ,
+    {
+        id: '',
+        name: 'Charm | Hot Howl',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/missinglink/kc_missinglink_howl_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
         },
         url: ''
     }
