@@ -7,3 +7,5 @@ Fix list:
 6) Baby Karat CT Charm Images Size (Site)
 7) Baby Karat T Charm Images Size (Site)
 8) Missing Link Charm Image Size (Site), Myb a general size?
+9) More detailed Lil Teacup Charm guide? (Site + Steam)
+10) More detailed Diner Dog Charm guide? (Site + Steam)
