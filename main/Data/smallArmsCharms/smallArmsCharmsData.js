@@ -57,7 +57,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/babys_ak_charm.html'
     },
     {
         id: '',
@@ -67,7 +67,7 @@ const smallArmsCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/hot_hands_charm.html'
     },
     {
         id: '',
@@ -77,7 +77,7 @@ const smallArmsCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/disco_mac_charm.html'
     },
     {
         id: '',
@@ -87,7 +87,7 @@ const smallArmsCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/pop_art_charm.html'
     },
     {
         id: '',
