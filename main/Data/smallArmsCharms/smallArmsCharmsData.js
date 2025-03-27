@@ -17,7 +17,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/backsplash_charm.html'
     },
     {
         id: '',
@@ -27,7 +27,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/stitch_loaded_charm.html'
     },
     {
         id: '',
@@ -37,7 +37,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/pocket_awp_charm.html'
     },
     {
         id: '',
@@ -47,7 +47,7 @@ const smallArmsCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/whittle_knife_charm.html'
     },
     {
         id: '',
