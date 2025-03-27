@@ -97,7 +97,7 @@ const smallArmsCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/glamour_shot_charm.html'
     },
     {
         id: '',
@@ -107,7 +107,7 @@ const smallArmsCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/die_cast_ak_charm.html'
     },
     {
         id: '',
@@ -117,7 +117,7 @@ const smallArmsCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/lil_squirt_charm.html'
     },
     {
         id: '',
@@ -127,7 +127,7 @@ const smallArmsCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/titeenium_awp_charm.html'
     },
     {
         id: '',
@@ -137,7 +137,7 @@ const smallArmsCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/semi_precious_charm.html'
     }
     ,
     {
@@ -148,7 +148,7 @@ const smallArmsCharmsData = [
             name: 'Extraordinary',
             color: '#eb4b4b'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/baby_karat_ct_charm.html'
     }
     ,
     {
@@ -159,6 +159,6 @@ const smallArmsCharmsData = [
             name: 'Extraordinary',
             color: '#eb4b4b'
         },
-        url: ''
+        url: '/main/Views/smallArmsCharms/baby_karat_t_charm.html'
     }
 ];
