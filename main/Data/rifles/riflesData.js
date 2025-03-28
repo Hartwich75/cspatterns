@@ -52,7 +52,7 @@ const riflesData = [
     {
         id: '',
         name: 'M4A1-S | Fade',
-        image: '/main/images/riflePatterns/m4a1s_fade_pattern374.png',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_aa_fade_m4a1s_light_png.png',
         rarity: {
             name: 'Covert',
             color: '#eb4b4b'
