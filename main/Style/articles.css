@@ -80,3 +80,28 @@ h2{
     height: 100vh;
     object-fit: cover;
 }
+
+.missingLinkCharmImage {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+
+.smallArmsCharmImage {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.weaponImage {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
