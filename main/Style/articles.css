@@ -52,6 +52,8 @@ h2{
     height: auto;
     max-height: 50px;
     object-fit: cover;
+    transition: opacity 1s ease-in-out;
+    opacity: 1;
 }
 
 #articleBannerLeft, #articleBannerRight{
