@@ -108,9 +108,32 @@ h2{
     object-fit: contain;
 }
 
-
 .weaponImage {
     width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.pistolImage {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.midtierImage {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.rifleImage {
+    width: 600px;
     height: auto;
     display: block;
     margin: 0 auto;
