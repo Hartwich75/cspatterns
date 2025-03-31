@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
     const patternImages = [
-        "/main/images/patternTemplates/AmberFadeTemplate.png",
-        "/main/images/patternTemplates/BoomTemplate.png",
-        "/main/images/patternTemplates/CaseHardenedTemplate.jpg",
-        "/main/images/patternTemplates/ElectricHiveTemplate.png",
-        "/main/images/patternTemplates/EmeraldTemplate.png",
-        "/main/images/patternTemplates/FadeTemplate.png",
-        "/main/images/patternTemplates/MoonriseTemplate.png",
-        "/main/images/patternTemplates/PawTemplate.jpg"
+        "/images/patternTemplates/AmberFadeTemplate.png",
+        "/images/patternTemplates/BoomTemplate.png",
+        "/images/patternTemplates/CaseHardenedTemplate.jpg",
+        "/images/patternTemplates/ElectricHiveTemplate.png",
+        "/images/patternTemplates/EmeraldTemplate.png",
+        "/images/patternTemplates/FadeTemplate.png",
+        "/images/patternTemplates/MoonriseTemplate.png",
+        "/images/patternTemplates/PawTemplate.jpg"
     ];
 
     const imgElement = document.getElementById("patternTemplate");

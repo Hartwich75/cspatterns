@@ -7,7 +7,7 @@ const pistolsData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/pistols/p2000_amberFade.html'
+        url: '/pistols/p2000_amberFade'
     },
     {
         id: 'skin-264920',
@@ -17,7 +17,7 @@ const pistolsData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/pistols/glock18_moonrise.html'
+        url: '/pistols/glock18_moonrise'
     },
     {
         id: 'skin-262296',
@@ -27,7 +27,7 @@ const pistolsData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/pistols/glock18_fade.html'
+        url: '/pistols/glock18_fade'
     },
     {
         id: 'skin-4196396',
@@ -37,7 +37,7 @@ const pistolsData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: '/main/Views/pistols/r8revolver_amberFade.html'
+        url: '/pistols/r8revolver_amberFade'
     },
     {
         id: 'skin-266624',
@@ -47,6 +47,6 @@ const pistolsData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: '/main/Views/pistols/glock18_gammadoppler.html'
+        url: '/pistols/glock18_gammadoppler'
     }
 ];

@@ -7,7 +7,7 @@ const riflesData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/rifles/galilar_amberFade.html'
+        url: '/rifles/galilar_amberFade'
     },
     {
         id: 'skin-525272',
@@ -17,7 +17,7 @@ const riflesData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/rifles/aug_amberFade.html'
+        url: '/rifles/aug_amberFade'
     },
     {
         id: 'skin-592696',
@@ -27,7 +27,7 @@ const riflesData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/rifles/awp_paw.html'
+        url: '/rifles/awp_paw'
     },
     {
         id: 'skin-590732',
@@ -37,7 +37,7 @@ const riflesData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: '/main/Views/rifles/awp_electricHive.html'
+        url: '/rifles/awp_electricHive'
     },
     {
         id: 'skin-590520',
@@ -47,7 +47,7 @@ const riflesData = [
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: '/main/Views/rifles/awp_boom.html'
+        url: '/rifles/awp_boom'
     },
     {
         id: '',
@@ -57,7 +57,7 @@ const riflesData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: '/main/Views/rifles/m4a1s_fade.html'
+        url: '/rifles/m4a1s_fade'
     },
     {
         id: 'skin-593928',
@@ -67,6 +67,6 @@ const riflesData = [
             name: 'Covert',
             color: '#eb4b4b'
         },
-        url: '/main/Views/rifles/awp_fade.html'
+        url: '/rifles/awp_fade'
     }
 ];

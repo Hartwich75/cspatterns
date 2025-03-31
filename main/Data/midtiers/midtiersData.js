@@ -7,7 +7,7 @@ const midtiersData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/midtiers/mac10_amberFade.html'
+        url: '/midtiers/mac10_amberFade'
     },
     {
         id: 'skin-1901528',
@@ -17,7 +17,7 @@ const midtiersData = [
             name: 'Mil-Spec Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/midtiers/sawedoff_amberFade.html'
+        url: '/midtiers/sawedoff_amberFade'
     },
     {
         id: 'skin-1576268',
@@ -27,6 +27,6 @@ const midtiersData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: '/main/Views/midtiers/ump45_moonrise.html'
+        url: '/midtiers/ump45_moonrise'
     }
 ];

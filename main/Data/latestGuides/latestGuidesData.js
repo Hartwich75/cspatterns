@@ -7,7 +7,7 @@ const latestGuidesData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: '/main/Views/smallArmsCharms/titeenium_awp_charm.html'
+        url: '/smallArmsCharms/titeenium_awp_charm'
     },
     {
         id: '',
@@ -17,7 +17,7 @@ const latestGuidesData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/smallArmsCharms/die_cast_ak_charm.html'
+        url: '/smallArmsCharms/die_cast_ak_charm'
     },
     {
         id: '',
@@ -27,6 +27,6 @@ const latestGuidesData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/smallArmsCharms/disco_mac_charm.html'
+        url: '/smallArmsCharms/disco_mac_charm'
     }
 ];

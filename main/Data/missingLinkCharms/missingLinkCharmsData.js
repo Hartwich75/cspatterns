@@ -7,7 +7,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_ava_charm.html'
+        url: '/missingLinkCharms/lil_ava_charm'
     },
     {
         id: '',
@@ -17,7 +17,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_crass_charm.html'
+        url: '/missingLinkCharms/lil_crass_charm'
     },
     {
         id: '',
@@ -27,7 +27,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/pinch_o_salt_charm.html'
+        url: '/missingLinkCharms/pinch_o_salt_charm'
     },
     {
         id: '',
@@ -37,7 +37,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/big_kev_charm.html'
+        url: '/missingLinkCharms/big_kev_charm'
     },
     {
         id: '',
@@ -47,7 +47,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/hot_sauce_charm.html'
+        url: '/missingLinkCharms/hot_sauce_charm'
     },
     {
         id: '',
@@ -57,7 +57,7 @@ const missingLinkCharmsData = [
             name: 'High Grade',
             color: '#4b69ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_sas_charm.html'
+        url: '/missingLinkCharms/lil_sas_charm'
     },
     {
         id: '',
@@ -67,7 +67,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_squatch_charm.html'
+        url: '/missingLinkCharms/lil_squatch_charm'
     },
     {
         id: '',
@@ -77,7 +77,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/thats_bananas_charm.html'
+        url: '/missingLinkCharms/thats_bananas_charm'
     },
     {
         id: '',
@@ -87,7 +87,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_sandy_charm.html'
+        url: '/missingLinkCharms/lil_sandy_charm'
     },
     {
         id: '',
@@ -97,7 +97,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_teacup_charm.html'
+        url: '/missingLinkCharms/lil_teacup_charm'
     },
     {
         id: '',
@@ -107,7 +107,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/chicken_lil_charm.html'
+        url: '/missingLinkCharms/chicken_lil_charm'
     },
     {
         id: '',
@@ -117,7 +117,7 @@ const missingLinkCharmsData = [
             name: 'Remarkable',
             color: '#8847ff'
         },
-        url: '/main/Views/missingLinkCharms/lil_whiskers_charm.html'
+        url: '/missingLinkCharms/lil_whiskers_charm'
     },
     {
         id: '',
@@ -127,7 +127,7 @@ const missingLinkCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: '/main/Views/missingLinkCharms/diner_dog_charm.html'
+        url: '/missingLinkCharms/diner_dog_charm'
     },
     {
         id: '',
@@ -137,7 +137,7 @@ const missingLinkCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: '/main/Views/missingLinkCharms/lil_monster_charm.html'
+        url: '/missingLinkCharms/lil_monster_charm'
     },
     {
         id: '',
@@ -147,7 +147,7 @@ const missingLinkCharmsData = [
             name: 'Superior',
             color: '#d32ce6'
         },
-        url: '/main/Views/missingLinkCharms/diamond_dog_charm.html'
+        url: '/missingLinkCharms/diamond_dog_charm'
     }
     ,
     {
@@ -158,7 +158,7 @@ const missingLinkCharmsData = [
             name: 'Extraordinary',
             color: '#eb4b4b'
         },
-        url: '/main/Views/missingLinkCharms/hot_wurst_charm.html'
+        url: '/missingLinkCharms/hot_wurst_charm'
     }
     ,
     {
@@ -169,6 +169,6 @@ const missingLinkCharmsData = [
             name: 'Extraordinary',
             color: '#eb4b4b'
         },
-        url: '/main/Views/missingLinkCharms/hot_howl_charm.html'
+        url: '/missingLinkCharms/hot_howl_charm'
     }
 ];
