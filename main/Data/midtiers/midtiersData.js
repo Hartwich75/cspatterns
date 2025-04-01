@@ -28,5 +28,15 @@ const midtiersData = [
             color: '#8847ff'
         },
         url: '/main/Views/midtiers/ump45_moonrise.html'
+    },
+    {
+        id: '',
+        name: 'XM1014 | Solitude',
+        image: '/main/images/midtierPatterns/XM1014SolitudePattern95.png',
+        rarity: {
+            name: 'Restricted',
+            color: '#8847ff'
+        },
+        url: '/main/Views/midtiers/xm1014_solitude.html'
     }
 ];
