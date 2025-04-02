@@ -32,7 +32,7 @@ const midtiersData = [
     {
         id: '',
         name: 'XM1014 | Solitude',
-        image: '/main/images/midtierPatterns/XM1014SolitudePattern95.png',
+        image: '/images/midtierPatterns/XM1014SolitudePattern95.png',
         rarity: {
             name: 'Restricted',
             color: '#8847ff'
