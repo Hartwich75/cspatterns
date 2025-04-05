@@ -7,7 +7,7 @@ const latestGuidesData = [
             name: 'Restricted',
             color: '#8847ff'
         },
-        url: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_spoon_png.png'
+        url: '/main/Views/midtiers/xm1014_solitude.html'
     },
     {
 
