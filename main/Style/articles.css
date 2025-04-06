@@ -197,13 +197,6 @@ h2{
     text-align: center;
 }
 
-.pattern-card img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto 1em;
-  }
-
 .inspect-button {
     display: inline-block;
     margin-top: 15px;
