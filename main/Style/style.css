@@ -88,6 +88,8 @@ table a:hover{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    overflow-x: auto;
+    flex-wrap: nowrap;
 }
 
 .header-nav ul li:first-child {
@@ -212,4 +214,80 @@ table a:hover{
     justify-content: center;
     align-items: center;
     height: 75px;
+}
+
+@media (max-width: 1024px) {
+    .header-nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0 10px;
+    }
+
+    .pattern-card, 
+    .defaultMidtierImages, 
+    .defaultPistolImages, 
+    .defaultRifleImages,
+    .defaultMissingLinkCharmImages,
+    .defaultSmallArmsCharmImages,
+    .defaultLatestGuidesImages {
+        width: 90% !important;
+        flex-direction: column;
+    }
+
+    .pistolsimage, 
+    .midtiersimage, 
+    .riflesimage, 
+    .missingLinkCharmsimage, 
+    .smallArmsCharmsimage, 
+    .latestGuidesimage {
+        width: 100%;
+        height: auto;
+    }
+
+    .pattern-card img,
+    .weaponImage,
+    .smallArmsCharmImage,
+    .midtierImage,
+    .pistolImage,
+    .bigWeaponImage,
+    .rifleImage {
+        width: 100% !important;
+        max-width: 100%;
+    }
+
+    p {
+        width: 90%;
+    }
+
+    h1, h2 {
+        font-size: 6vw;
+    }
+
+    .header-nav a {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+}
+
+@media (max-width: 600px) {
+    .header-nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+    }
+
+    .site-footer {
+        flex-direction: column;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .footer-nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .footer-nav li {
+        margin: 5px 0;
+    }
 }
