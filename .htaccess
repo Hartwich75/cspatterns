@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# Remove /Views from public path
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(rifles|pistols|midtiers|missingLinkCharms|smallArmsCharms)/(.*)$ Views/$1/$2 [L]
+
+# Remove .html from public path
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
