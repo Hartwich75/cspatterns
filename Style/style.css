@@ -286,6 +286,13 @@ table a:hover{
         display: none;
     }
 
+    h1, h2 {
+        line-height: 1.3em;
+        word-break: break-word;
+        font-size: 5.5vw;
+        margin: 10px 0;
+    }
+
     .mobile-header {
         display: block;
         position: fixed;
