@@ -30,6 +30,26 @@ const pistolsData = [
         url: '/Views/pistols/glock18_fade.html'
     },
     {
+        id: '',
+        name: 'Five-Seven | Heat Treated',
+        image: '',
+        rarity: {
+            name: 'Restricted',
+            color: '#8847ff'
+        },
+        url: '/Views/pistols/fiveSeven_heatTreated.html'
+    },
+    {
+        id: '',
+        name: 'Five-Seven | Case Hardened',
+        image: '',
+        rarity: {
+            name: 'Restricted',
+            color: '#8847ff'
+        },
+        url: '/Views/pistols/fiveSeven_caseHardened.html'
+    },
+    {
         id: 'skin-4196396',
         name: 'R8 Revolver | Amber Fade',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_aa_fade_metallic_revolver_light_png.png',
@@ -51,13 +71,13 @@ const pistolsData = [
     },
     {
         id: '',
-        name: 'Five-Seven | Case Hardened',
+        name: 'Desert Eagle | Heat Treated',
         image: '',
         rarity: {
             name: 'Classified',
             color: '#d32ce6'
         },
-        url: '/Views/pistols/fiveSeven_caseHardened.html'
+        url: '/Views/pistols/desertEagle_heatTreated.html'
     },
     {
         id: 'skin-266624',
