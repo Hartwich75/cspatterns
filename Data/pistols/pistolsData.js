@@ -40,6 +40,16 @@ const pistolsData = [
         url: '/Views/pistols/r8revolver_amberFade.html'
     },
     {
+        id: '',
+        name: 'Glock-18 | Shinobu',
+        image: '',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: '/Views/pistols/glock18_shinobu.html'
+    },
+    {
         id: 'skin-266624',
         name: 'Glock-18 | Gamma Doppler',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_am_emerald_marbleized_glock_light_png.png',
