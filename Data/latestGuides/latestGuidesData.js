@@ -1,33 +1,32 @@
 const latestGuidesData = [
     {
         id: '',
-        name: 'XM1014 | Solitude',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_soch_mountains_limited_time_light_png.png',
+        name: 'Desert Eagle | Heat Treated',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_aq_deagle_case_hardened_2_light_png.png',
         rarity: {
-            name: 'Restricted',
-            color: '#8847ff'
-        },
-        url: '/Views/midtiers/xm1014_solitude.html'
-    },
-    {
-
-        id: '',
-        name: 'Charm | Titeenium AWP',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_awp_spoon_png.png',
-        rarity: {
-            name: 'Superior',
+            name: 'Classified',
             color: '#d32ce6'
         },
-        url: '/Views/smallArmsCharms/titeenium_awp_charm.html'
+        url: '/Views/pistols/desertEagle_heatTreated.html'
+    },
+    {
+        id: 'skin-5a39103af835',
+        name: 'AWP | Printstream',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_printstream_light_png.png',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: '/Views/rifles/awp_printstream.html'
     },
     {
         id: '',
-        name: 'Charm | Die-Cast AK',
-        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/keychains/weapon_1/kc_wpn_ak_jelly_png.png',
+        name: 'AK-47 | Case Hardened',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_aq_oiled_light_png.png',
         rarity: {
-            name: 'Remarkable',
-            color: '#8847ff'
+            name: 'Classified',
+            color: '#d32ce6'
         },
-        url: '/Views/smallArmsCharms/die_cast_ak_charm.html'
+        url: '/Views/rifles/ak47_caseHardened.html'
     }
 ];
