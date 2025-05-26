@@ -30,6 +30,26 @@ const riflesData = [
         url: '/Views/rifles/awp_paw.html'
     },
     {
+        id: '',
+        name: 'M4A1-S | Night Terror',
+        image: '',
+        rarity: {
+            name: 'Restricted',
+            color: '#8847ff'
+        },
+        url: '/Views/rifles/m4a1s_nightTerror.html'
+    },
+    {
+        id: '',
+        name: 'AK-47 | Case Hardened',
+        image: '',
+        rarity: {
+            name: 'Classified',
+            color: '#d32ce6'
+        },
+        url: '/Views/rifles/ak47_caseHardened.html'
+    },
+    {
         id: 'skin-590732',
         name: 'AWP | Electric Hive',
         image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_hy_hive_light_png.png',
@@ -68,5 +88,15 @@ const riflesData = [
             color: '#eb4b4b'
         },
         url: '/Views/rifles/awp_fade.html'
+    },
+    {
+        id: '',
+        name: 'AWP | Printstream',
+        image: '',
+        rarity: {
+            name: 'Covert',
+            color: '#eb4b4b'
+        },
+        url: '/Views/rifles/awp_printstream.html'
     }
 ];
