@@ -30,9 +30,9 @@ const riflesData = [
         url: '/Views/rifles/awp_paw.html'
     },
     {
-        id: '',
+        id: 'skin-3936680',
         name: 'M4A1-S | Night Terror',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_insomnia_light_png.png',
         rarity: {
             name: 'Restricted',
             color: '#8847ff'
@@ -42,7 +42,7 @@ const riflesData = [
     {
         id: '',
         name: 'AK-47 | Case Hardened',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_aq_oiled_light_png.png',
         rarity: {
             name: 'Classified',
             color: '#d32ce6'
@@ -90,9 +90,9 @@ const riflesData = [
         url: '/Views/rifles/awp_fade.html'
     },
     {
-        id: '',
+        id: 'skin-5a39103af835',
         name: 'AWP | Printstream',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_awp_printstream_light_png.png',
         rarity: {
             name: 'Covert',
             color: '#eb4b4b'

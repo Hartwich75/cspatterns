@@ -30,9 +30,9 @@ const pistolsData = [
         url: '/Views/pistols/glock18_fade.html'
     },
     {
-        id: '',
+        id: 'skin-a5b8f726cf2c',
         name: 'Five-Seven | Heat Treated',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_aq_deagle_case_hardened_2_light_png.png',
         rarity: {
             name: 'Restricted',
             color: '#8847ff'
@@ -42,7 +42,7 @@ const pistolsData = [
     {
         id: '',
         name: 'Five-Seven | Case Hardened',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_fiveseven_aq_case_hardened_fiveseven_light_png.png',
         rarity: {
             name: 'Restricted',
             color: '#8847ff'
@@ -62,7 +62,7 @@ const pistolsData = [
     {
         id: '',
         name: 'Glock-18 | Shinobu',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_glock_shinobu_light_png.png',
         rarity: {
             name: 'Classified',
             color: '#d32ce6'
@@ -72,7 +72,7 @@ const pistolsData = [
     {
         id: '',
         name: 'Desert Eagle | Heat Treated',
-        image: '',
+        image: 'https://raw.githubusercontent.com/Hartwich75/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_deagle_aq_deagle_case_hardened_2_light_png.png',
         rarity: {
             name: 'Classified',
             color: '#d32ce6'
