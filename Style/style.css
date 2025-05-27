@@ -29,10 +29,6 @@ header {
     height: 80px;
 }
 
-.content-wrapper {
-    flex: 1;
-    padding-bottom: 50px;
-}
 header {
     position: fixed;
     top: 0;

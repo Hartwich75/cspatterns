@@ -1,0 +1,25 @@
+.skin-box {
+    background-color: #2a2a2a;
+    border-radius: 15px;
+    padding: 10px 10px;
+    margin-left: 20%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 45%;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.05);
+}
+
+.skin-box p {
+    width: 100%;
+    text-align: center;
+}
+
+.skin-rarity-box {
+    position: relative;
+    background-color: white;
+    padding: 5px;
+    font-size: 15px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
